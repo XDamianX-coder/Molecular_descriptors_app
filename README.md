@@ -15,6 +15,6 @@ Step by step installation:
 10. If everything is done correct, You can input your data.     
 
 
-Hints: You need to drop environment.yaml file in directory such like: C:\Users\{user_name}.
-You need to use cd to get to directory where Descriptors_app.py is.
+Hints: You need to drop environment.yaml file in directory such like: C:\Users\{user_name}.   
+You need to use cd to get to directory where Descriptors_app.py is.   
 If You have any issue, contact me: dam.now22@protonmail.com   
