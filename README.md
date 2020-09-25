@@ -16,8 +16,8 @@ Step by step installation:
 
 
  Hints:   
- Link to install Anaconda: https://www.anaconda.com/products/individual   
- You need to drop environment.yaml file in directory such like: C:\Users\{user_name}.   
- You need to use cd to get to directory where Descriptors_app.py is.   
- In 4th point You can use your own NAME.   
- If You have any issue, contact me: dam.now22@protonmail.com   
+  Link to install Anaconda: https://www.anaconda.com/products/individual   
+  You need to drop environment.yaml file in directory such like: C:\Users\{user_name}.   
+  You need to use cd to get to directory where Descriptors_app.py is.   
+  In 4th point You can use your own NAME.   
+  If You have any issue, contact me: dam.now22@protonmail.com   
