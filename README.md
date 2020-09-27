@@ -20,5 +20,5 @@ Step by step installation:
   You need to drop environment.yaml file in directory such like: C:\Users\{user_name}.   
   You need to use cd to get to directory where Descriptors_app.py is.   
   In 4th point You can use your own NAME.   
-  Descriptors_app.py should be replaced with name of the .py file that You have already download.  
+  Descriptors_app.py should be replaced with name of the .py file that You have already downloaded.  
   If You have any issue, contact me: dam.now22@protonmail.com   
